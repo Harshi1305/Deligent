@@ -1,0 +1,81 @@
+product_id,product_name,category,sub_category,brand,price,rating,stock_quantity
+9d7f4ae8-9d37-40a7-83f1-d4d43c0fa5e1,EvoDerm Night Mask,Beauty,Skincare,LuxeGlow,2101.5,4.1,60
+84204cfb-0150-48d0-b242-81c7fe4a6514,AeroLink Ultra,Electronics,Laptops,NovaSound,739.06,4.7,505
+95ba199d-25d9-4758-ab92-8279a2922f49,PulseTab Studio,Electronics,Tablets,OrbitOne,896.48,3.6,284
+29144108-f016-476f-bcb9-b0b392495dc4,UrbanNest Purifier,Home,Cleaning,UrbanNest,2171.45,4.0,565
+4f68564c-9807-4264-8b96-9940b6cb73e1,UrbanNest Planter Set,Home,Decor,UrbanNest,932.22,4.3,555
+0ed42b97-708a-4e9d-9e9f-3b240f4d7141,CasaPure Modular Sofa,Home,Furniture,UrbanNest,887.53,4.0,569
+ec5acaab-3445-4eba-865e-8b247d274eee,HelioCraft Solar Watch,Accessories,Watches,Voyageur,422.51,4.4,482
+50125164-4655-454b-8961-3fdaa3c4152a,CasaPure Steam Mop,Home,Cleaning,CasaPure,413.97,3.5,578
+673ab0f6-8d68-4c50-bdd4-e777fc1337b1,Orbit Edge Pro,Electronics,Smartphones,NovaSound,117.11,4.8,332
+88add444-6943-42bd-b1ad-df9231d2aa8d,Voyageur North Star Pendant,Accessories,Jewelry,HelioCraft,745.71,4.6,312
+27288ebe-a4fa-4764-bcff-20c6c1b4e579,PeakForm Hybrid Hoodie,Fitness,Athleisure,CoreFlex,1241.34,4.0,371
+32d10e80-4cc3-4821-a169-40de49089b3e,ZenMotion Sculpt Legging,Fitness,Athleisure,ZenMotion,408.65,3.9,528
+3d9f7863-ef4b-4644-a5e7-50c73e97cf53,HelioCraft Modular Pack,Accessories,Travel,Voyageur,180.75,3.9,506
+1172914a-fd97-4fec-8729-044a3bcc7331,LuxeGlow Hydrating Serum,Beauty,Skincare,PureBloom,1676.07,4.8,255
+f80766f9-da2d-4a07-ab44-82d53610a4c2,PulseTech Secure Cam,Accessories,Smart Home,ChronosCo,1240.22,3.5,165
+761a057e-264a-4c1b-b399-0ea1a85811e6,CoreFlex Adjustable Kettlebell,Fitness,Equipment,CoreFlex,1319.17,3.4,23
+91040c4c-ff68-4da6-8b23-e84501185895,CoreFlex Adjustable Kettlebell,Fitness,Equipment,PeakForm,474.72,4.8,206
+5bb65c5b-8dd6-4b85-afeb-308c85338301,MetroThread Tech Jacket,Fashion,Apparel,AtlasWear,548.81,4.1,378
+a1004e61-f401-428e-a431-0d83dbd29708,LuxeGlow Hydrating Serum,Beauty,Skincare,LuxeGlow,966.57,3.6,365
+aeff61b6-c607-4d48-8acc-9a35ecfd52e3,BrightHive Wall Art,Home,Decor,BrightHive,973.94,4.3,302
+c88ed3b8-9b8a-4a82-ac6d-77f32a584792,PureBloom Barrier Cream,Beauty,Skincare,LuxeGlow,1315.68,4.0,296
+26e88e7c-cdd9-4206-9b56-1458c476eac4,VelvetLine Knit Dress,Fashion,Apparel,MetroThread,236.53,4.2,476
+15b433d8-a15b-4789-b46c-952eea93eb4c,AtlasWear Transit Pack,Fashion,Bags,VelvetLine,1272.62,3.7,429
+a111d844-34bd-4c57-ae21-08d892e7cd37,OrbitSense 3,Electronics,Wearables,PulseTech,1039.52,4.2,85
+23308ab9-787b-4b8b-bc7b-d1e4959932b0,UrbanNest Smart Blender,Home,Kitchen,CasaPure,670.17,4.6,284
+9f245b6a-b069-4f49-b236-3a3f5a07e040,AtlasWear Transit Pack,Fashion,Bags,MetroThread,1226.57,3.6,511
+dd600df0-a123-4470-b4dc-5b1fbb412130,PulseBand Active,Electronics,Wearables,AeroLink,1678.99,4.6,98
+33390b79-1a33-4927-a210-c195554504d0,AeroLink Ultra,Electronics,Laptops,AeroLink,1278.54,3.6,257
+f290aa8f-a2c0-4bec-8af5-55c16547892c,PulseTab Studio,Electronics,Tablets,NovaSound,1907.43,3.4,68
+0804e394-634f-44b4-85e5-780ed32f72eb,MetroThread City Sneaker,Fashion,Footwear,MetroThread,2148.12,3.5,159
+661746c4-ad45-410e-bec0-79d9e9f7f40d,PulseBook Air,Electronics,Laptops,AeroLink,1078.17,4.3,509
+82850011-27b0-49de-8ee8-04ab1e2d5448,Pulse X2 5G,Electronics,Smartphones,PulseTech,568.24,3.7,191
+04a98b0e-a2bf-4e3e-b717-b4a4500d7bdc,MetroThread City Sneaker,Fashion,Footwear,VelvetLine,1237.95,4.3,200
+485c3d22-90b0-40b0-bfda-c97e12413e8a,ChronoFit Max,Electronics,Wearables,NovaSound,1839.59,4.3,130
+45a292d0-65b7-4db5-98e6-69bf13c267c0,BrightHive Ergo Chair,Home,Furniture,UrbanNest,484.21,4.3,190
+bcbf6afe-d59a-4790-9594-55bb6f02ebda,ChronosCo Tech Organizer,Accessories,Travel,Voyageur,2120.69,3.4,52
+12f1e107-776d-4b4b-b230-f201a1a96650,CasaPure Ambient Lamp,Home,Decor,CasaPure,1388.33,4.8,492
+0b84cf63-fe5b-4343-97a0-c5eb55099f93,AtlasWear Transit Pack,Fashion,Bags,AtlasWear,2124.65,4.3,319
+3780021d-7147-4d08-8d73-e630b3da0cbe,LuxeGlow Hydrating Serum,Beauty,Skincare,EvoDerm,1993.7,4.7,250
+ab101d0b-6442-4c6d-8ef0-de60f8b1b820,ZenMotion Focus Gummies,Fitness,Supplements,CoreFlex,1365.41,4.5,567
+4d6188dc-5fb5-40be-82b9-8185414daf04,MetroThread Parka,Fashion,Outerwear,AtlasWear,2180.66,3.6,230
+9b3ae2d6-f11c-4d6a-893c-bfbee11f66a9,PulseTech Secure Cam,Accessories,Smart Home,HelioCraft,546.52,4.7,185
+921205ac-28c4-4b05-b67e-c35ff328fab7,Pulse X2 5G,Electronics,Smartphones,NovaSound,1916.21,4.0,196
+34007688-734d-4ed6-9aea-8ccd0c6da6a5,NovaBeam Mini,Electronics,Smartphones,PulseTech,1586.41,4.5,600
+961b920b-3a7c-41fa-8b65-d5491dec500e,AtlasWear Knit Runner,Fashion,Footwear,VelvetLine,581.73,4.6,212
+a4b12842-522f-4ab4-8e5c-d87276206857,NovaSound Arc,Electronics,Audio,OrbitOne,1031.47,4.9,546
+292cb567-a4b0-4f09-ab0b-cf15eef17df5,CasaPure Modular Sofa,Home,Furniture,CasaPure,533.15,3.9,219
+068fa6bb-ffce-46c5-a416-a38c8281e3b4,HelioCraft Solar Watch,Accessories,Watches,HelioCraft,2177.59,3.9,585
+97a7ac37-0f5b-438c-8e6b-bccfbb2babe8,Voyageur Carbon Carry-On,Accessories,Travel,ChronosCo,1675.3,4.2,347
+ebb626d2-2694-4dbe-8d27-91a78664db15,LuxeGlow Radiant Palette,Beauty,Makeup,LuxeGlow,556.2,3.8,210
+bfd7f681-c6d3-4067-bcf4-2fbd0bbb1961,PulseBook Air,Electronics,Laptops,NovaSound,1764.61,3.9,52
+5eda521a-e234-4e48-b18d-f9135ae8ef01,VelvetLine Knit Dress,Fashion,Apparel,VelvetLine,1836.45,3.8,295
+ec15bba6-fc8b-4970-813e-aa5dd04ec2a9,EvoDerm Night Mask,Beauty,Skincare,EvoDerm,2137.25,4.5,35
+8647140a-dd88-45a0-95be-ae7d66ac0787,ZenMotion Smart Trainer,Fitness,Equipment,PeakForm,1776.07,4.4,52
+573d588b-eaac-48fe-afc7-13f1b796bd2d,VelvetLine Wool Coat,Fashion,Outerwear,AtlasWear,513.8,3.4,301
+d6250c80-6286-4cf0-b7ad-beeca5252416,MetroThread Tech Jacket,Fashion,Apparel,MetroThread,1563.59,4.6,397
+20426eda-1bc9-4364-ab87-f1661e8204da,OrbitSense 3,Electronics,Wearables,NovaSound,714.41,4.6,485
+5c8201ed-88f5-4447-8884-79049b0b90b0,CoreFlex Seamless Tee,Fitness,Athleisure,ZenMotion,1268.04,4.3,597
+a688b2ae-4d8a-47f8-801a-c27db6e85cc8,Pulse X2 5G,Electronics,Smartphones,OrbitOne,2023.91,4.5,190
+f056b740-dd49-4bed-b869-d0138c80405d,EvoDerm Balance Shampoo,Beauty,Haircare,PureBloom,1967.22,3.5,77
+9ce4c50f-1b59-45d5-a3a4-0985cd0080fe,PeakForm Plant Protein,Fitness,Supplements,ZenMotion,1603.36,4.6,290
+71cd6e3f-89de-4b63-b8d0-f9bc3bb351dd,BrightHive Robot Vac,Home,Cleaning,UrbanNest,2099.6,3.7,466
+578b7e1b-3185-4d37-abad-92c4accc86fc,CoreFlex Recovery Drink,Fitness,Supplements,PeakForm,657.3,3.5,382
+34516357-56b4-4907-89e0-b8261bfeb840,ZenMotion Smart Trainer,Fitness,Equipment,CoreFlex,2112.51,4.3,117
+feb4ffa5-0fde-456e-a8e7-9b6c89ed06ac,HelioCraft Halo Earrings,Accessories,Jewelry,Voyageur,756.64,4.8,479
+9cbd85c0-9bf4-4679-a1fa-7de889b8b72f,ChronosCo Axis Bracelet,Accessories,Jewelry,Voyageur,1630.71,4.4,304
+fbc89e3c-024c-45d4-bb1e-f5e8de91c4d4,PeakForm Hybrid Hoodie,Fitness,Athleisure,ZenMotion,1181.03,4.3,372
+a170c855-7457-4217-962b-73ca95591d8e,ZenMotion Sculpt Legging,Fitness,Athleisure,CoreFlex,1410.35,4.5,481
+60422d14-b0df-454d-b1cc-fcb512070cdb,PeakForm Resistance Kit,Fitness,Equipment,ZenMotion,1493.11,3.9,29
+b4f77be2-21a9-465c-8972-987e421dd558,ZenMotion Focus Gummies,Fitness,Supplements,PeakForm,1769.5,3.4,301
+3e91c92f-2636-4686-88e3-8503a0c64d0f,PureBloom Velvet Lip Tint,Beauty,Makeup,PureBloom,1721.75,3.7,549
+56a4300a-1b0c-4ed9-9ce7-33191f050eec,PureBloom Barrier Cream,Beauty,Skincare,EvoDerm,1848.48,3.9,223
+50602b32-e598-4fec-9c58-374ed4e08a2a,PureBloom Volume Mist,Beauty,Haircare,PureBloom,118.38,4.2,265
+9038efca-6896-465d-85d1-604cfb7fbdb2,CasaPure Air Fryer,Home,Kitchen,UrbanNest,1417.96,4.4,410
+da4b7396-d7a5-4908-8c6c-caf22424c34f,NovaSound Multi-Room Speaker,Accessories,Smart Home,ChronosCo,1074.36,4.3,30
+dda6d41f-087f-4b37-9368-cb6bcd01b5bc,LuxeGlow Repair Oil,Beauty,Haircare,EvoDerm,230.09,4.2,524
+36e204ee-9a3b-43eb-a9a4-500771ab750d,VelvetLine Wool Coat,Fashion,Outerwear,VelvetLine,522.46,4.4,47
+22d7cee7-2177-4517-933a-cdbc8665bbb5,OrbitWave Studio,Electronics,Audio,AeroLink,628.51,4.0,97
+ea2dfdf7-5d45-4027-8234-98d645172842,MetroThread Parka,Fashion,Outerwear,VelvetLine,2176.22,3.4,104
+a58adeef-9d73-476d-8979-2570f427a2a4,Orbit Flex 14,Electronics,Laptops,OrbitOne,493.24,3.8,345

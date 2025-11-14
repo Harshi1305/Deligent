@@ -1,0 +1,51 @@
+user_id,full_name,email,phone,created_at,country,gender,age,is_prime_member
+2bdcb1f3-ee83-43c0-b2f7-7184722a0e15,Nora Martinez,nora.martinez92@shopmail.com,+65-377-741-1007,2025-01-15T13:40:37,Singapore,non-binary,32,true
+52ee9ecf-5363-4678-8139-d6587d59b3f5,Aria Nelson,aria.nelson22@shopmail.com,+1-321-985-4466,2025-01-19T03:37:01,United States,male,21,false
+260c9a73-bb42-43e4-8d4a-fc3d34febf0a,Liam Edwards,liam.edwards75@shopmail.com,+1-997-398-4102,2024-01-28T08:17:55,Canada,non-binary,43,false
+9efa999f-b90d-40e7-9033-713f76349861,Grace Parker,grace.parker13@shopmail.com,+55-313-759-4245,2024-08-01T04:26:27,Brazil,female,56,true
+35691beb-8af9-4549-9e67-b6bcd3775c65,Isabella Davis,isabella.davis80@shopmail.com,+61-288-800-8546,2024-10-11T16:07:17,Australia,non-binary,29,true
+1953d227-6463-4501-abcf-b024302076f0,Ella Perez,ella.perez78@shopmail.com,+65-608-906-2185,2025-07-30T15:42:50,Singapore,non-binary,55,true
+4b0ff5f4-324a-47bb-b48c-83d2baaf9d10,Elena Scott,elena.scott88@shopmail.com,+49-552-432-9912,2025-06-27T21:49:59,Germany,male,28,true
+623b288e-a294-4612-b74c-37abf510f5f8,Daniel Wright,daniel.wright56@shopmail.com,+1-771-350-5516,2025-07-12T09:59:43,Canada,non-binary,58,true
+136afc03-ca5e-41ee-9128-5d18ed2ff254,Ava Green,ava.green89@shopmail.com,+971-803-752-3519,2025-05-29T13:58:08,United Arab Emirates,male,50,true
+3793ed0f-2c3d-4d12-be8c-1cc51d90ac96,James Stewart,james.stewart13@shopmail.com,+971-787-617-1543,2024-07-29T07:32:08,United Arab Emirates,female,31,true
+d9aa166f-201b-4b51-8d26-e1b13f6e14e1,Penelope Perez,penelope.perez83@shopmail.com,+44-464-722-1186,2024-04-06T21:11:51,United Kingdom,male,30,true
+8485093d-72dc-4185-9dda-a4cc89ed9a7e,Logan Morgan,logan.morgan40@shopmail.com,+61-465-898-3236,2025-10-05T11:38:45,Australia,non-binary,41,true
+cb37caa1-1b66-4b6b-90a8-3606cdd281a8,Layla Allen,layla.allen87@shopmail.com,+65-388-279-9355,2024-06-05T08:45:29,Singapore,non-binary,44,true
+94c09ce5-dd26-4961-91aa-5c2f3d5184a7,Riley Morgan,riley.morgan93@shopmail.com,+55-770-433-1163,2024-12-27T18:48:13,Brazil,male,41,false
+16aa2d9d-f4c4-4e24-a4c4-a1b8d497c821,Wyatt Hill,wyatt.hill43@shopmail.com,+1-352-514-9310,2025-04-09T22:27:50,Canada,male,57,false
+4252cdbe-9fc3-4602-99ba-1634fd87a96a,Zoe Scott,zoe.scott52@shopmail.com,+1-997-843-5077,2025-09-08T05:40:03,Canada,male,25,true
+e40c3c24-05c0-4374-a687-5c41539150a6,Harper Rivera,harper.rivera28@shopmail.com,+65-867-387-9420,2025-10-03T02:39:09,Singapore,female,29,true
+4df85635-c805-41f0-8e91-18b836adbafa,Grace Morris,grace.morris17@shopmail.com,+1-798-324-6511,2024-10-31T08:12:32,United States,non-binary,34,false
+6814324a-ff27-4d06-a4f8-0c1b5214045e,Abigail Walker,abigail.walker91@shopmail.com,+1-868-608-8094,2024-10-17T20:27:10,United States,male,60,true
+1fe16547-8098-438a-a27a-3961b2cd7403,Lucas King,lucas.king68@shopmail.com,+1-566-223-9707,2025-08-20T16:57:56,United States,non-binary,27,true
+a5772ae5-ff50-47ca-9e45-757135363f6e,Paisley Nelson,paisley.nelson61@shopmail.com,+61-627-250-2454,2024-10-21T03:12:49,Australia,female,51,false
+a94eeadb-c3c2-44cb-96d0-b10dd27d7e64,Jack Evans,jack.evans57@shopmail.com,+1-459-317-6515,2025-01-10T18:53:12,Canada,female,26,false
+15f6dd52-d448-448e-9e2d-d93c2a505c7b,Eleanor Roberts,eleanor.roberts49@shopmail.com,+1-552-463-5251,2024-05-07T17:47:02,Canada,female,64,false
+a6f53f71-8578-4ac4-a221-4d4f582e6765,Elena Hill,elena.hill48@shopmail.com,+33-246-211-1109,2024-11-07T11:02:38,France,non-binary,45,true
+3cb73893-7393-4486-ab60-f3dffb462c4e,Ethan Bailey,ethan.bailey57@shopmail.com,+971-538-815-6809,2025-10-24T04:53:17,United Arab Emirates,female,27,false
+d60aa3bf-7230-4a8f-8990-795b97c36896,Henry Hernandez,henry.hernandez13@shopmail.com,+65-687-681-4027,2024-07-25T08:37:28,Singapore,non-binary,68,true
+8a74bb43-e072-410d-8872-848580629d22,Zoe Bailey,zoe.bailey45@shopmail.com,+44-321-901-5547,2024-10-04T08:41:18,United Kingdom,female,44,false
+9ede9453-7dce-470e-9072-7a4351e472ef,Nora Davis,nora.davis58@shopmail.com,+49-413-246-9439,2024-05-05T11:43:23,Germany,male,36,false
+e1852718-85d4-4baf-b9ff-53333956debd,Ava Taylor,ava.taylor48@shopmail.com,+44-223-409-6760,2024-05-31T09:44:43,United Kingdom,male,68,true
+f0823dec-69ee-4996-b9f0-ce8b807b9650,Mia Anderson,mia.anderson27@shopmail.com,+1-342-419-3519,2025-05-11T22:30:17,United States,non-binary,27,true
+4926ba29-243b-4d91-b332-ed017af8a8ae,Nora Taylor,nora.taylor36@shopmail.com,+971-357-889-2831,2024-03-06T11:41:03,United Arab Emirates,female,58,true
+a3198239-5df0-4b8e-8070-041ece869b75,Mia Hill,mia.hill83@shopmail.com,+91-708-452-3736,2024-12-01T20:11:52,India,female,57,true
+2090383e-cc50-4876-9728-1ab04278fc49,James Evans,james.evans37@shopmail.com,+33-521-854-3566,2025-08-03T17:02:58,France,male,45,true
+df49924c-a07b-4979-a3e8-30832e921d72,Penelope Lewis,penelope.lewis95@shopmail.com,+44-321-851-4148,2024-02-18T12:16:55,United Kingdom,male,59,true
+1b93798b-7f65-4ed5-98f3-733d1ff83def,Hannah Bell,hannah.bell78@shopmail.com,+49-687-718-7783,2025-04-22T22:12:37,Germany,non-binary,25,false
+9fb97408-548a-4315-ac6a-d201c5534b17,Madison Hill,madison.hill67@shopmail.com,+44-322-558-3832,2024-04-26T22:51:18,United Kingdom,non-binary,55,true
+7f6c7b12-a079-4b89-b97d-4c2a3bba3728,Sophia Stewart,sophia.stewart12@shopmail.com,+1-467-281-6098,2024-10-24T11:32:17,United States,female,18,false
+9548ced7-5a72-48c4-9cf6-7d6b208725fe,Ella Anderson,ella.anderson82@shopmail.com,+49-812-243-6544,2025-10-31T04:50:48,Germany,non-binary,63,false
+41c7a59c-b8ae-4d81-b553-6fdc76caf5c3,Grace Cook,grace.cook90@shopmail.com,+61-763-458-4193,2025-09-25T04:21:57,Australia,female,47,true
+8997a7f4-167e-4813-ae58-c2437d6639d4,Lily Taylor,lily.taylor76@shopmail.com,+33-857-303-3359,2024-08-07T11:35:39,France,female,65,false
+8e5b2783-711f-4799-9e03-84a60e4e2a54,Luna Lewis,luna.lewis60@shopmail.com,+65-323-489-4079,2024-06-19T06:58:56,Singapore,non-binary,58,true
+a26c44f6-8636-4696-b622-f4ced746df1d,Luna Brown,luna.brown26@shopmail.com,+33-346-319-2634,2025-03-05T18:02:31,France,non-binary,45,false
+5ee6bef7-6fba-4940-ad9f-2ff44858e851,Levi Davis,levi.davis49@shopmail.com,+33-363-580-5389,2024-02-28T21:44:37,France,non-binary,54,true
+b690bfe8-ea1b-4277-b74f-c841cc421319,Grace Lopez,grace.lopez41@shopmail.com,+65-650-493-4804,2024-06-12T16:11:12,Singapore,female,60,true
+392a35c7-d8a4-4319-b689-2be55200351f,Hazel Clark,hazel.clark45@shopmail.com,+1-476-463-1644,2025-10-19T07:41:25,United States,male,44,true
+56171720-c33d-43e4-8ef1-87eed71abda6,Noah Lopez,noah.lopez22@shopmail.com,+33-509-846-6290,2024-12-28T16:16:37,France,female,67,false
+10739f83-3366-45be-8cef-85e1dfbf694b,Ella Parker,ella.parker30@shopmail.com,+65-574-634-2464,2024-05-08T15:28:19,Singapore,non-binary,39,false
+ffc46260-83b3-4b72-ab1e-68c211222531,Lily Collins,lily.collins24@shopmail.com,+33-620-772-6894,2024-07-08T13:09:14,France,male,32,true
+a2f44284-eded-4d07-9cf8-f59896614503,Hazel Smith,hazel.smith75@shopmail.com,+91-299-625-3362,2024-02-18T14:15:59,India,non-binary,38,false
+ae83f943-71e9-45e9-b4a0-a90496a1e48e,Madison Baker,madison.baker93@shopmail.com,+91-820-889-8211,2025-05-20T18:40:16,India,female,20,false
